@@ -1,4 +1,4 @@
-![wackOS](https://user-images.githubusercontent.com/20033421/220274958-02a2ce60-8fe0-48a6-b91b-ca56b80d4de4.png)
+![wackOS](https://user-images.githubusercontent.com/20033421/220275434-bd2c5233-26ad-481a-8293-f0a381c90996.png)
 
 wackOS is an upcoming customized version of Windows 10 meant to copy some UI elements of macOS in the style of Windows. 
 
