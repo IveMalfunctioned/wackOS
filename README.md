@@ -12,7 +12,12 @@ wackOS is an upcoming customized version of Windows 10 meant to copy some UI ele
 
 wackOS has not yet had a finalized first revision.
 
-⁯
+## Licensing:
+Since I am in no way affiliated with Microsoft or the development of Windows and also do not hold any rights to Microsoft Windows, **the terms of use are the same as Microsoft's.**
+
+This includes: Basing your own mod off of this build, using it for commercial purposes, or for personal use.
+
+Since this is a customized mod, I would prefer if you could credit my GitHub page for the mod. Thanks!
 
 ⁯
 
